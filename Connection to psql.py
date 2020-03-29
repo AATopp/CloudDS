@@ -5,7 +5,7 @@
 
 
 # Alla Topp
-# Connecting to PSQL and running quesriws to do muli-processing
+# Connecting to PSQL and running queries to do multi-processing
 
 
 # In[1]:
