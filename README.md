@@ -46,10 +46,4 @@ This dataset is a subset of Yelp's businesses, reviews, and user data. It was or
 2.	Explore multi-processing code examples 
 3.	Connect yelpdb (psql database) in Python 
 4.	Run 5 queries in Python using all the created tables in yelpdb (psql) 
-Week 4
-TBD
-Week 5
-TBD
-Week 6
-TBD
-Week 7 
+
