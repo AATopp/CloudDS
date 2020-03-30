@@ -40,7 +40,8 @@ This dataset is a subset of Yelp's businesses, reviews, and user data. It was or
    Week 2
 1.	Finish documentation
 2.	Learn about how to connect psql database in Python
-3.	Solve configuration and 
+3.	Solve configuration and nrtwork privacy issues
+   
    Week 3
 1.	Explore software for load-testing
 2.	Explore multi-processing code examples 
