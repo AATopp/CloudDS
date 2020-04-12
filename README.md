@@ -61,7 +61,7 @@ This dataset is a subset of Yelp's businesses, reviews, and user data. It was or
 2. Document the average time for accuracy 
 3. Repeat the step 1 and 2 for 10, 50 and 100 processes
 
-   Week 5
+Week 5
 1. Troubleshooting join queries with 10, 50 and 100 processes
 2. Creating visualization for Virtual Machine 1 (4 GB, 4 CPU and 40GB) processes 
 3. Creating new Virtual machine with 8 GB RAM on CloudStack 
@@ -69,6 +69,6 @@ This dataset is a subset of Yelp's businesses, reviews, and user data. It was or
 5. Run Q 4 and 5
 6. Create indexes in psql in two largest tables 
 
-   Week 6
+Week 6
 
 
