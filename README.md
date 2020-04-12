@@ -28,6 +28,14 @@ This dataset is a subset of Yelp's businesses, reviews, and user data. It was or
 -	Repeating PostgreSQL and MongoDB databases processes in CS VM for documentation
 -	Moving files from local VM to CloudStack VM using private network with tin0 account using WinSCP and PuTTY
 -	Document everything for future students` use in data science and data engineering classes at Regis University 
+-  Backup and Restore yelpdb database from postgreSQL
+-  Log in to Jupiter Lab on cobalt and connect to the VM yelpdb database
+-  Developing multi-process code to use with all 5 queries 
+-  Recording average time for 1, 10, 50, 100 processes for every query
+-  Create new virtual machine with new settings (8 GB RAM, 4 CPU, 40 GB hard drive)
+-  Document multi-processing time for the new VM
+-  Document the process for both VMs 
+-  Create data visualization for multi-processing with 2 different VMs 
 
 
 # Timeline of the Project 
@@ -47,4 +55,20 @@ This dataset is a subset of Yelp's businesses, reviews, and user data. It was or
 2.	Explore multi-processing code examples 
 3.	Connect yelpdb (psql database) in Python 
 4.	Run 5 queries in Python using all the created tables in yelpdb (psql) 
+   
+   Week 4
+1. With working multi-processig code run 1 process for 5 Queries 
+2. Document the average time for accuracy 
+3. Repeat the step 1 and 2 for 10, 50 and 100 processes
+
+   Week 5
+1. Troubleshooting join queries with 10, 50 and 100 processes
+2. Creating visualization for Virtual Machine 1 (4 GB, 4 CPU and 40GB) processes 
+3. Creating new Virtual machine with 8 GB RAM on CloudStack 
+4. Repeat all the processes on the new VM 
+5. Run Q 4 and 5
+6. Create indexes in psql in two largest tables 
+
+   Week 6
+
 
