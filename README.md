@@ -2,7 +2,7 @@
 
 A repository for the Regis University Data Science Cloud Project to prepare documentations for Regis University students in Data Science and Data Engineering classes.
 
-# Description of the Project
+# Project Summary 
 
    This project is an ongoing process of multiple steps in a small group of graduate students and a professor. The environment of the project is CloudStack, where a few instances (Virtual machines) created to work on. The goal of the project is to create documentation in Cloud Project Regis University GitHub page for all the data science related students at Regis University to use in their classes. 
    I am working with 2 databases PostgreSQL and MongoDB to test how Virtual Machines on CloudStack behave to analize the process and in the future to make decisions what hardware to use. I use Yelp dataset which was downloaded from https://www.yelp.com/dataset to test those two databases. Using these datasets, I create tables and import data into them in Linux on Ubuntu 18.04 Virtual Machine on CloudStack. After all data stored in the tables, I am working with standard queries performed in Python so I could run multi-processing, test loading to identify how many students could run queries in those databases at the same time. 
@@ -72,3 +72,5 @@ Week 5
 Week 6
 
 
+# Results/Conclusion
+# References
