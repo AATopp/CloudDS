@@ -1,5 +1,4 @@
 -----Alla Topp-----
-
 -----Creating table business and importing business.csv
 
 DROP TABLE business;
