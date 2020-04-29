@@ -38,39 +38,5 @@ This dataset is a subset of Yelp's businesses, reviews, and user data. It was or
 -  Create data visualization for multi-processing with 2 different VMs 
 
 
-# Timeline of the Project 
-   Week 1
-1.	Write Proposal for Capstone Part 2
-2.	Create documentation for what was done in Capstone Part 1 in PDF
-3.	Create content in GitHub for Project Part 2, import all files to GitHub
-4.	Write README.md on GitHub
-
-   Week 2
-1.	Finish documentation
-2.	Learn about how to connect psql database in Python
-3.	Solve configuration and nrtwork privacy issues
-   
-   Week 3
-1.	Explore software for load-testing
-2.	Explore multi-processing code examples 
-3.	Connect yelpdb (psql database) in Python 
-4.	Run 5 queries in Python using all the created tables in yelpdb (psql) 
-   
-   Week 4
-1. With working multi-processig code run 1 process for 5 Queries 
-2. Document the average time for accuracy 
-3. Repeat the step 1 and 2 for 10, 50 and 100 processes
-
-Week 5
-1. Troubleshooting join queries with 10, 50 and 100 processes
-2. Creating visualization for Virtual Machine 1 (4 GB, 4 CPU and 40GB) processes 
-3. Creating new Virtual machine with 8 GB RAM on CloudStack 
-4. Repeat all the processes on the new VM 
-5. Run Q 4 and 5
-6. Create indexes in psql in two largest tables 
-
-Week 6
-
-
 # Results/Conclusion
 # References
