@@ -49,4 +49,4 @@ A repository for the Regis University Data Science Cloud Project to prepare docu
 
 ## Visualization
 
-https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%201.PNG
+![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%201.PNG "Query 1")
