@@ -4,12 +4,17 @@ A repository for the Regis University Data Science Cloud Project to prepare docu
 
 ## Project Summary 
 
+..* DS-Cloud Project is an ongoing project where different students participate every semester,
+..* It has its own GitHub page where all the ongoing documentation is collected,
+..* Documentation is needed to provide the instructions for the students in Data Science classes and students who will join the project in the future for further development,
+..* My tasks included to work with PostgreSQL database and Yelp data in an Ubuntu Virtual Machine on Cloud Stack. Most of my work was done in a Linux terminal and Jupyter Hub, 
+..* My role was to help with collecting data to determine performance to further decide what hardware to purchase to create a lab environment for future data science classes. 
 
 
 ## Description of Data 
 
    We work with Yelp data set in this project that was downloaded from the website: https://www.yelp.com/dataset
-This dataset is a subset of Yelp's businesses, reviews, and user data. 
+   This dataset is a subset of Yelp's businesses, reviews, and user data. 
 
 ## Project Process:
 -	Install Global Protect and CloudStack environment 
