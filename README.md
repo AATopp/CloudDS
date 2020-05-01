@@ -47,4 +47,5 @@ A repository for the Regis University Data Science Cloud Project to prepare docu
    3. It takes over 500GB of hard drive to run queries 4 & 5 to test 10, 20, 50 and 100 users working at the same time 
    4. VM with 8GB of RAM showed a great performance and could be considered to be optimal specification for the lab environment 
 
+## Visualization
 
