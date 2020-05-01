@@ -43,15 +43,21 @@ A repository for the Regis University Data Science Cloud Project to prepare docu
 
 ## Visualization
 
+
 ![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%201.PNG "Query 1")
+
 
 ![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%202.PNG "Query 2")
 
+
 ![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%203.PNG "Query 3")
+
 
 ![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%204.PNG "Query 4")
 
+
 ![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%205.PNG "Query 5")
+
 
 ## Results/Conclusion
 
