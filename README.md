@@ -2,19 +2,16 @@
 
 A repository for the Regis University Data Science Cloud Project to prepare documentations for Regis University students in Data Science and Data Engineering classes.
 
-# Project Summary 
-
-   This project is an ongoing process of multiple steps in a small group of graduate students and a professor. The environment of the project is CloudStack, where a few instances (Virtual machines) created to work on. The goal of the project is to create documentation in Cloud Project Regis University GitHub page for all the data science related students at Regis University to use in their classes. 
-   I am working with 2 databases PostgreSQL and MongoDB to test how Virtual Machines on CloudStack behave to analize the process and in the future to make decisions what hardware to use. I use Yelp dataset which was downloaded from https://www.yelp.com/dataset to test those two databases. Using these datasets, I create tables and import data into them in Linux on Ubuntu 18.04 Virtual Machine on CloudStack. After all data stored in the tables, I am working with standard queries performed in Python so I could run multi-processing, test loading to identify how many students could run queries in those databases at the same time. 
-   I am trying to represent performance under 1 set of configuration parameters for VM/server, network by analyzing CPU cores, CPU clock speed and RAM Size. Additionally, during this project we are trying to collect data that will be used to help determine hardware specifications on new equipment by load testing on created virtual machine on CloudStack. Besides hardware we need to estimate how much RAM a computer or cluster of computers would need to support 2 or 3 Data Science classes of every student was using it simultaneously.
+## Project Summary 
 
 
-# Description of Data 
+
+## Description of Data 
 
    We work with Yelp data set in this project that was downloaded from the website: https://www.yelp.com/dataset
-This dataset is a subset of Yelp's businesses, reviews, and user data. It was originally put together for the Yelp Dataset Challenge which is a chance for students to conduct research or analysis on Yelp's data and share their discoveries. In the dataset there is information about businesses across 11 metropolitan areas in four countries.
+This dataset is a subset of Yelp's businesses, reviews, and user data. 
 
-# Project Process:
+## Project Process:
 -	Install Global Protect and CloudStack environment 
 -	Exploring CloudStack and creating/destroying instances 
 -	Installing Ubuntu 18.04 and Windows 10 virtual machines 
@@ -38,11 +35,11 @@ This dataset is a subset of Yelp's businesses, reviews, and user data. It was or
 -  Create data visualization for multi-processing with 2 different VMs 
 
 
-# Results/Conclusion
+## Results/Conclusion
 
-1. VM with 8GB of RAM showed a much better performance overall than the VM with 4GB of RAM based on run time 
-2. 40GB of hard drive on both VMs did not allow them to run over 5 processes (users) at the same time because PostgreSQL uses temporary space on hard drive running queries with JOINs
-3. It takes over 500GB of hard drive to run queries 4 & 5 to test 10, 20, 50 and 100 users working at the same time 
-4. VM with 8GB of RAM showed a great performance and could be considered to be optimal specification for the lab environment 
+   1. VM with 8GB of RAM showed a much better performance overall than the VM with 4GB of RAM based on run time 
+   2. 40GB of hard drive on both VMs did not allow them to run over 5 processes (users) at the same time because PostgreSQL uses temporary space on hard drive running queries with JOINs
+   3. It takes over 500GB of hard drive to run queries 4 & 5 to test 10, 20, 50 and 100 users working at the same time 
+   4. VM with 8GB of RAM showed a great performance and could be considered to be optimal specification for the lab environment 
 
 
