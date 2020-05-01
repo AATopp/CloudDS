@@ -40,15 +40,22 @@ A repository for the Regis University Data Science Cloud Project to prepare docu
 -  Create data visualization for multi-processing with 2 different VMs 
 
 
-## Results/Conclusion
-
-   1. VM with 8GB of RAM showed a much better performance overall than the VM with 4GB of RAM based on run time 
-   2. 40GB of hard drive on both VMs did not allow them to run over 5 processes (users) at the same time because PostgreSQL uses temporary space on hard drive running queries with JOINs
-   3. It takes over 500GB of hard drive to run queries 4 & 5 to test 10, 20, 50 and 100 users working at the same time 
-   4. VM with 8GB of RAM showed a great performance and could be considered to be optimal specification for the lab environment 
 
 ## Visualization
 
 ![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%201.PNG "Query 1")
 
 ![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%202.PNG "Query 2")
+
+![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%202.PNG "Query 3")
+
+![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%202.PNG "Query 4")
+
+![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%202.PNG "Query 5")
+
+## Results/Conclusion
+
+   1. VM with 8GB of RAM showed a much better performance overall than the VM with 4GB of RAM based on run time 
+   2. 40GB of hard drive on both VMs did not allow them to run over 5 processes (users) at the same time because PostgreSQL uses temporary space on hard drive running queries with JOINs
+   3. It takes over 500GB of hard drive to run queries 4 & 5 to test 10, 20, 50 and 100 users working at the same time 
+   4. VM with 8GB of RAM showed a great performance and could be considered to be optimal specification for the lab environment 
