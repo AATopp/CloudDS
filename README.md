@@ -39,4 +39,10 @@ This dataset is a subset of Yelp's businesses, reviews, and user data. It was or
 
 
 # Results/Conclusion
-# References
+
+1. VM with 8GB of RAM showed a much better performance overall than the VM with 4GB of RAM based on run time 
+2. 40GB of hard drive on both VMs did not allow them to run over 5 processes (users) at the same time because PostgreSQL uses temporary space on hard drive running queries with JOINs
+3. It takes over 500GB of hard drive to run queries 4 & 5 to test 10, 20, 50 and 100 users working at the same time 
+4. VM with 8GB of RAM showed a great performance and could be considered to be optimal specification for the lab environment 
+
+
