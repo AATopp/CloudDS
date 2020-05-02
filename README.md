@@ -47,22 +47,29 @@ ___
 
 
 
+
 ## Visualization
 
 Query 1:
 ![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%201.PNG "Query 1")
 
+
 Query 2:
 ![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%202.PNG "Query 2")
+
 
 Query 3:
 ![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%203.PNG "Query 3")
 
+
 Query 4:
 ![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%204.PNG "Query 4")
 
+
 Query 5:
 ![alt text](https://github.com/AATopp/CloudDS/blob/master/Comparison%20Query%205.PNG "Query 5")
+
+
 
 
 ## Results/Conclusion
@@ -71,3 +78,8 @@ Query 5:
    2. 40GB of hard drive on both VMs did not allow them to run over 5 processes (users) at the same time because PostgreSQL uses temporary space on hard drive running queries with JOINs
    3. It takes over 500GB of hard drive to run queries 4 & 5 to test 10, 20, 50 and 100 users working at the same time 
    4. VM with 8GB of RAM showed a great performance and could be considered to be optimal specification for the lab environment 
+   5. Impossible to have over 3 students (users) or more running queries like 4 and 5 (with joins) at the same time in the VM with such specs because of current server limitations
+   6. The more memory (RAM) a VM has, the better the run time will show when running large queries 
+   7. The results of the project support a decision for hardware purchase to create the lab environment for the Data Science classes at Regis University 
+   8. Based on all the processes documented the next students in the project will have a starting point to continue the next steps with minimal training  
+
